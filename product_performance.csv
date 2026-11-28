@@ -1,0 +1,13 @@
+Product,Product_Category,Sales,Profit,Units_Sold,Movement_Flag
+Smartphone,Electronics,63357.0,15357.0,160,Review - lower sales volume
+Running Shoes,Clothing,12031.5,4807.5,168,Review - lower sales volume
+Casual Dress,Clothing,7261.8,3784.8,183,Review - lower sales volume
+Non-stick Pan,Home & Kitchen,4974.2,2328.2,189,Regular
+Mixer Grinder,Home & Kitchen,17081.0,5308.0,193,Regular
+Lipstick,Beauty,2260.2,1464.2,199,Regular
+Wireless Earbuds,Electronics,11960.0,5560.0,200,Regular
+Food Container Set,Home & Kitchen,4360.4,2470.4,210,Regular
+Power Bank,Electronics,7054.25,3148.25,217,Regular
+Cotton T-Shirt,Clothing,3576.6,2043.6,219,Regular
+Yoga Mat,Sports,5922.5,3051.5,261,Regular
+Face Moisturizer,Beauty,4162.4,2464.4,283,Regular
